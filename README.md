@@ -7,3 +7,5 @@ A cada partida, as 40 casas são distribuídas novamente pelo percurso. Há perg
 O mapa mostra uma estrada vertical com câmera que acompanha o jogador. Também é possível explorar o percurso manualmente. O jogo apresenta fotos e imagens relacionadas aos temas e às personalidades, com uma área de créditos para consultar as fontes.
 
 Para jogar, abra o arquivo HTML em um navegador. Não é necessário instalar o jogo.
+
+https://otavioxf.github.io/Consciencia-Negra/
